@@ -1,4 +1,4 @@
-# GOAL/OBJECTIVE - MAKE INDIAN SME's SUCCESSFUL BY HELPING THEM TO -
+# GOAL-MAKE INDIAN SME's SUCCESSFUL BY HELPING THEM TO -
 ### 1. SELL MORE
 ### 2. MAKE OPERATIONS EFFICIENT
 ### 3. MAKE COMPLIANCE EASY
@@ -9,6 +9,14 @@
 - Manafacturer/Importer based out in India with an annual turnover ranging b/w 1cr and 100cr.
 - Trader/Distributor/CNF Agent/Wholesaler with annual turnover ranging b/w 25 Lakhs and 100cr.
 - Not discussing the problems of **retailers** as of now
+
+### INDIAN SME CHARACTERSTICS (Most of them)
+1. Family run - No professional mgmt(can't afford), only educated people are the promoters. Rest all employees are foreman, salesman, business dev managers earning < 40k/month.
+2. A large portion of business is off books (That is why business restricted to family only). 
+3. Have Do it for me attitude - Will not signup online for a service, populate catalogue, pay online. DIY fails most of the times.
+4. Efficency is low since no CRM/ERP, very less data for Sales prediction and all. Off books txn also contribute to the logic of NO CRM and ERP.
+5. Access to credit it limited - Domain specific credit models not there, Banks lend on basis of Balance Sheet and not cashflow, NBFC'and modern day Fintech's trying to crack this.
+6. Very willing to pay comission on sales, very performance oriented esp for new things. Hard to get upfront payments.
 
 
 
