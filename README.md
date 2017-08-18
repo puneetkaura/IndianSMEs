@@ -1,10 +1,23 @@
-## Welcome to GitHub Pages
+# GOAL/OBJECTIVE - MAKE INDIAN SME's SUCCESSFUL BY HELPING THEM TO -
+## 1. SELL MORE
+## 2. MAKE OPERATIONS EFFICIENT
+## 3. MAKE COMPLIANCE EASY
+## 4. PROVIDE ACCESS TO CREDIT
+## 5. PROVIDE ACCESS TO DOMAIN EXPERTISE
+
+### SME definition
+- Manafacturer/Importer based out in India with an annual turnover ranging b/w 1cr and 100cr.
+- Trader/Distributor/CNF Agent/Wholesaler with annual turnover ranging b/w 25 Lakhs and 100cr.
+- Not discussing the problems of **retailers** as of now
+
+### Various aspects
+
 
 You can use the [editor on GitHub](https://github.com/puneetkaura/IndianSMEs/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
